@@ -1,0 +1,16 @@
+Conterting JSON to JAVA Object using Jackson Library
+
+using ObjectMapper class from Jackson library to convert JSON string to Java object.
+
+CODE : jsonUtil.ConvertJsonToJavaObject(JSON_HttpResponse, Payment_Response.class);
+Payment_Response.class This is the class Contains :
+
+    String id;
+    String url;
+
+Object and JSON Response also Have :
+
+{
+    "id": "ab12bad3bas",
+    "url": "https://example.com/resource/dadasds"
+}

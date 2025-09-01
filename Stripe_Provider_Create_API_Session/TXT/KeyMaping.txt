@@ -1,0 +1,25 @@
+Find File : Ctrl+P
+Find Action : Ctrl+Shift+P
+Show References : Shift+F12
+Run/Debug : F5 / Ctrl+F5
+Quick Fix/Intention Actions : Ctrl+. (dot)
+Refactor (Menu) : Ctrl+Shift+R
+Reformat Code : Shift+Alt+F
+Comment Line : Ctrl+/
+Comment Block : Shift+Alt+A
+Duplicate Line : Ctrl+D
+Move Line Up/Down : Alt+Up/Down
+Select Word : Ctrl+W
+Select Line : Ctrl+L
+Select All Occurrences : Ctrl+F2
+Open Terminal : Ctrl+`
+Navigation to Bean/Class : Ctrl+Click
+Show Usages : Shift+F12
+Multi-cursor Editing : Alt+Click
+Recent Files : Ctrl+E
+Format Document : Shift+Alt+F
+Quick Open File : Ctrl+P
+Go to Definition : F12
+Go to Implementation : Ctrl+F12
+Go to Line : Ctrl+G
+
