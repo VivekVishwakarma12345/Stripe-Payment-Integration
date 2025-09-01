@@ -113,12 +113,12 @@ mvn spring-boot:run
 The application will start at: GET http://localhost:8083/payment/health_check
 
 Payment APIs
-POST : For Create Stripe Session
-👉 http://localhost:8083/payment
-POST : For Update Stripe Session
-👉 http://localhost:8083/payment/{"id"}
-GET : For Retieve Stripe Session
-👉 http://localhost:8083/payment/{"id"}
+    POST : For Create Stripe Session
+    👉 http://localhost:8083/payment
+    POST : For Update Stripe Session
+    👉 http://localhost:8083/payment/{"id"}
+    GET : For Retieve Stripe Session
+    👉 http://localhost:8083/payment/{"id"}
 
 📊 Demo Flow
 Merchant registers their account.
@@ -136,7 +136,7 @@ Admin can monitor everything, view analytics & reconcile records.
 
 📌 Upcoming Improvements (Future Roadmap)
 "The project is not yet fully completed, as I am continuously working on it to enhance its features and functionalities. I am focused on making improvements, optimizing performance, and adding more capabilities to ensure it becomes a more robust and effective solution."
-Data Project Start : 04/08/2025 - Project Ends : 28/09/2025
+Date | Project Start : 04/08/2025 - Project Ends : 28/09/2025
 
 🚀 Project Learnings
 Hands-on experience integrating third-party PSP (Stripe).
