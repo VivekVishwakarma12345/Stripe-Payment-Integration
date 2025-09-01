@@ -19,6 +19,11 @@ Other tools: Jackson, Lombok, Sonar Lint
 
 
 ## 📌 Overview
+Contributed to building a secure and scalable Stripe Payment Integration System using Java Spring Boot in a microservices 
+architecture on AWS. Participated in implementing payment processing, payment status management, Stripe PSP REST API 
+integration, notification handling, security enhancements, and error management. Explored Spring AI with OpenAI LLM and 
+integrated ActiveMQ for asynchronous messaging. Followed RESTful standards, applied design patterns, and strengthened 
+debugging and problem-solving skills. 
 This project is a **Stripe Payment Service Provider Integration System** built using **Core Java** and **Spring Boot**.  
 The main goal is to simulate how real-world **payment processing systems (PSPs)** like **Stripe** or **Razorpay** work in production environments.
 
