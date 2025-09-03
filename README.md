@@ -124,6 +124,8 @@ Payment APIs
     👉 http://localhost:8083/payment/{"id"}
     GET : For Retieve Stripe Session
     👉 http://localhost:8083/payment/{"id"}
+    GET : For Expire Stripe Session
+    👉 http://localhost:8083/payment/expire/{"id"}
 
 📊 Demo Flow
 Merchant registers their account.
